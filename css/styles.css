@@ -1,0 +1,10 @@
+.pager li .active_link {
+    background-color: #fff !important;
+    color: #080808;
+}
+p{
+    color: #080808 !important;
+}
+.media-body{
+    color: grey;
+}
